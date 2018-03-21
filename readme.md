@@ -2,6 +2,8 @@
 
 Jogo desenvolvido de acordo com o curso [Aprenda a criar um jogo com Unity para Android](https://www.udemy.com/aprenda-a-criar-um-jogo-com-unity-para-android/) disponibilizado na **Udemy**. O jogo desenvolvido é um clone do famoso jogo casual **Timberman**.
 
+Resolução: 1000 x 1400
+
 ## Anotações ##
 
 * Para gráficos no estilo **pixel art**, deve-se colocar o **FilterMode** dos sprites para **Point**.
